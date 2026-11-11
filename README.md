@@ -25,9 +25,11 @@
 <div style="display: flex; align-items: center; justify-content: center;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" />               
 </div>
+
 ### Ferramentas e infraestrutura:
 <div style="display: flex; align-items: center; justify-content: center;">
-
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" />        
           
 </div>
 </div>
