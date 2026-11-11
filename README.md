@@ -18,13 +18,18 @@
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" height="50"/>
+</div>
 
 ### Banco de dados:
-
+<div style="display: flex; align-items: center; justify-content: center;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" />               
+</div>
 ### Ferramentas e infraestrutura:
+<div style="display: flex; align-items: center; justify-content: center;">
 
+          
+</div>
 </div>
 
 <br>
